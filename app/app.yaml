@@ -1,0 +1,5 @@
+runtime: python310
+entrypoint: gunicorn -b :$PORT app.main:app
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: "C:/Users/pc/AppData/Roaming/gcloud/chatbot442216-07e7fb091986.json"

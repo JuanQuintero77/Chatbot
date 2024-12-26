@@ -1,0 +1,9 @@
+# Ignorar credenciales sensibles
+chatbot442216-07e7fb091986.json
+.env
+
+# Ignorar otras configuraciones innecesarias
+__pycache__/
+*.pyc
+*.pyo
+*.log
