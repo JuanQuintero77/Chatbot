@@ -7,12 +7,6 @@ Este repositorio contiene un proyecto de chatbot que conecta la **API de WhatsAp
 
 ---
 
-## 🖼️ Arquitectura del Proyecto
-
-![Arquitectura del Chatbot](A_digital_graphic_design_chart_in_Spanish_displays.png)
-
----
-
 ## 🚀 Funcionalidades principales
 
 - ✅ Integración con la **API oficial de WhatsApp**
